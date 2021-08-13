@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.one{
+    height: 90%;
+    width: 90%;
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 10px solid green;
+
+}
+
+.first_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_center,h_230,q_auto,w_305/v1/filestore/btdocigle4thx3iq0eg6uf99mqul_shutterstock_1176563608.jpg);
+}
+
+.second_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://akm-img-a-in.tosshub.com/indiatoday/images/story/201509/f-tamil-1_647_091715023748.jpg);
+}
+
+.third_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://www.gosahin.com/go/p/c/t/1521753386_Magnetic-Hill3.jpg);
+}
+
+.fourth_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0103/2421/3824/files/Darjeeling-tiger_hills_from-Hyderabad-Telangana-India_Serendipity-Holidays_-e-mail-serendipity.holiday_gmail.com_mobile-_91-9848220745_large.jpg?v=1554819010);
+}
+
+.fifth_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/05/Spiti-Valley-Travel-Guide-and-Things-to-do-chandratal-Lake.jpg);
+}
+
+.sixth_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
